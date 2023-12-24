@@ -26,5 +26,5 @@ Mockup illustrations are present in the Assignment documents.
 - [Module 3 Solution](http://faheemzunjani.github.io/Coursera-WebDev-JHU-Assignments/module-3-solution/index.html)
 - [Module 4 Solution](http://faheemzunjani.github.io/Coursera-WebDev-JHU-Assignments/module-4-solution/index.html)
 - [Module 5 Solution](http://faheemzunjani.github.io/Coursera-WebDev-JHU-Assignments/module-5-solution/index.html)
-  - [Module 6 solution](https://www.coursera.org/projects/showcase-build-a-portfolio-website-html-css-javascript?recoOrder=2&utm_source=marketing&utm_medium=email&utm_campaign=45271&sfmc_id=225599145&sfmc_key=0038W00002PwBedQAF#about)
+
 
