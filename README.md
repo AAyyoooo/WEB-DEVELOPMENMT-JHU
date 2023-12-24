@@ -23,8 +23,8 @@ Mockup illustrations are present in the Assignment documents.
 **Solution Links:**
 
 - [Module 2 Solution](https://aayyoooo.github.io/WEBDEVELOPMENMTJHU/module-2-solution/index.html)
-- [Module 3 Solution](http://faheemzunjani.github.io/Coursera-WebDev-JHU-Assignments/module-3-solution/index.html)
-- [Module 4 Solution](http://faheemzunjani.github.io/Coursera-WebDev-JHU-Assignments/module-4-solution/index.html)
-- [Module 5 Solution](http://faheemzunjani.github.io/Coursera-WebDev-JHU-Assignments/module-5-solution/index.html)
+- [Module 3 Solution](https://aayyoooo.github.io/WEBDEVELOPMENMTJHU/module-3-solution/index.html)
+- [Module 4 Solution](https://aayyoooo.github.io/WEBDEVELOPMENMTJHU/module-4-solution/index.html)
+- [Module 5 Solution](https://aayyoooo.github.io/WEBDEVELOPMENMTJHU/module-5-solution/index.html)
 
 
